@@ -15,8 +15,16 @@ Send the original plans PDF and the Sharma set PDF in the Mike Holt (Engineering
 Jarvis verifies both files (page count, sheets, dates), files them byte-identical,
 adds the record to `data.json`, pushes, and verifies the live page and both PDF links.
 
+## Builder master pages
+Each builder gets a master page at `<builder-slug>/`; every job for that builder nests under it.
+- NOK Construction — https://sharmaelechvac.github.io/sharma-drawings/nok-construction/
+  Contacts: Chris (Oneception Designs) · Robin.
+
 ## Jobs filed
-- Antle Residence Addition — 3119 Colorado Ave, Orlando, FL 32826 — NOK Construction.
+- Antle Residence Addition — 3119 Colorado Ave, Orlando, FL 32826 — NOK Construction
+  (nested under the NOK master page).
   Original: Antle_Updated_Plans_102926.pdf (architect, 10/29/2026, 11 pages).
   Sharma: Antle-3119-Colorado-wire-layout-DRAFT.pdf — 6 sheets (CS, E-0, E-1, E-2, E-3.1, E-3.2),
   R0, 2026-11-13, DRAFT, approved by Sanjay 2026-11-13 (approval as reported by Mike Holt).
+  R1 is coming shortly (Sanjay via Mike, 2026-11-13): it will be ADDED as a new revision
+  alongside R0 — R0 stays on file, never replaced or deleted.

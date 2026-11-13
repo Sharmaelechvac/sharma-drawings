@@ -28,5 +28,16 @@ main{padding:6px 16px 20px;max-width:820px;margin:0 auto}
 .btn.view{background:var(--blue);color:#fff}
 .btn.dl{background:#fff;color:var(--blue);border:2px solid var(--blue)}
 .empty{text-align:center;color:var(--mut);padding:28px 16px;font-size:15px}
+.builders h3,.jobshead{font-size:13px;letter-spacing:.07em;color:var(--blue);margin:10px 2px 8px}
+.bcard{display:flex;align-items:center;gap:13px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:13px 15px;margin-bottom:10px;text-decoration:none;color:var(--ink);box-shadow:0 1px 4px rgba(11,42,91,.08)}
+.bcard img{height:42px;width:auto;max-width:110px;object-fit:contain}
+.bcard .bname{font-weight:800;font-size:17px;color:var(--navy)}
+.bcard .bmeta{font-size:13px;color:var(--mut);margin-top:2px;line-height:1.45}
+.bcard .go{margin-left:auto;color:var(--blue);font-weight:800;font-size:20px}
+.masterlink{display:inline-block;margin-top:8px;font-size:13.5px;font-weight:700;color:var(--blue);text-decoration:none}
+.revnote{font-size:13px;color:var(--amber);background:#fdf6e3;border:1px solid #ecd9a0;border-radius:9px;padding:8px 11px;line-height:1.5}
+.backlink{font-size:14px;font-weight:700;color:var(--blue);text-decoration:none}
+.builderrow{display:flex;gap:14px;align-items:center}
+.builderlogo{height:54px;width:auto;max-width:150px;object-fit:contain}
 footer{padding:18px 16px 30px;text-align:center;color:var(--mut);font-size:13px;line-height:1.6}
 footer .small{font-size:12px;max-width:620px;margin:4px auto 0}
