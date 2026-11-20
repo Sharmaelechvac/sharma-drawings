@@ -3,7 +3,7 @@ const $ = (s) => document.querySelector(s);
 const $$ = (s) => Array.from(document.querySelectorAll(s));
 
 let DATA = { jobs: [] };
-let tab = "master";
+let tab = "electrical";
 let builderFilter = "All";
 const tabState = {}; // per-tab {q, scroll}
 let currentJob = null;
@@ -139,7 +139,7 @@ function setHtml(j, s) {
   if (parts.length) {
     h += `<div class="parts">` + parts.map((p) =>
       `<div class="part"><div class="part-main">
-         <div class="part-name">${esc(p.discipline)} pages</div>
+         <div class="part-name">${esc(p.discipline)}</div>
          <div class="part-sub">${p.pages ? p.pages + " pp" : ""}${p.sheets && p.sheets.length ? " · " + esc(p.sheets.join(", ")) : ""}</div>
        </div><button class="part-btn" data-view="${esc(p.url)}" data-title="${esc(s.name + " — " + p.discipline)}">View</button></div>`
     ).join("") + `</div>`;
