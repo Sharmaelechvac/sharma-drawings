@@ -181,7 +181,8 @@
      "status": "Current",
      "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/212-wiring-drawings-d6.pdf"
     }
-   ]
+   ],
+   "thumb": "thumbs/exj-212.jpg"
   },
   {
    "id": "miami-adventist",
@@ -253,7 +254,8 @@
      "status": "Current",
      "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/601-wiring-drawings-d6.pdf"
     }
-   ]
+   ],
+   "thumb": "thumbs/exj-601.jpg"
   },
   {
    "id": "lindsey",
@@ -465,7 +467,8 @@
      "archived": true,
      "url": "files/antle/wire-layout-draft-1.pdf"
     }
-   ]
+   ],
+   "thumb": "thumbs/antle.jpg"
   },
   {
    "id": "eunice-3131",
@@ -562,7 +565,8 @@
       }
      ]
     }
-   ]
+   ],
+   "thumb": "thumbs/eunice-3131.jpg"
   },
   {
    "id": "eunice-3262",
@@ -659,7 +663,8 @@
       }
      ]
     }
-   ]
+   ],
+   "thumb": "thumbs/eunice-3262.jpg"
   },
   {
    "id": "eunice-3274",
@@ -756,7 +761,8 @@
       }
      ]
     }
-   ]
+   ],
+   "thumb": "thumbs/eunice-3274.jpg"
   },
   {
    "id": "eunice-3286",
@@ -853,7 +859,8 @@
       }
      ]
     }
-   ]
+   ],
+   "thumb": "thumbs/eunice-3286.jpg"
   },
   {
    "id": "mukherjee",
@@ -877,7 +884,8 @@
      "url": "files/mukherjee/electrical-set.pdf",
      "note": "Sharma's electrical set for the job. The architect's electrical sheets E-01 to E-03 are referenced in the submittal package but are not on file."
     }
-   ]
+   ],
+   "thumb": "thumbs/mukherjee.jpg"
   },
   {
    "id": "orange-5111",
@@ -975,7 +983,8 @@
      ],
      "note": "Full-sheet captures of E1.1 (1st floor power & lighting) and E1.2 (2nd floor). The full permit set lives on MRCELA's OneDrive — not on file."
     }
-   ]
+   ],
+   "thumb": "thumbs/blandford.jpg"
   },
   {
    "id": "zorn-rolling-hills",
@@ -1077,7 +1086,8 @@
      "url": "files/exj-14065/engineered-electrical.pdf",
      "note": "Sharma's engineered electrical set for the Milano (200A service; crew reference, not for construction). v1 (E-0–E-2) filed here; v2–v6 sit in the office folder — v6 is the latest (2026-11-08)."
     }
-   ]
+   ],
+   "thumb": "thumbs/exj-14065.jpg"
   },
   {
    "id": "haughton",
@@ -1173,7 +1183,8 @@
      "status": "On file",
      "url": "files/logan/energy-forms.pdf"
     }
-   ]
+   ],
+   "thumb": "thumbs/logan-lot69.jpg"
   },
   {
    "id": "exj-16321",
@@ -1222,7 +1233,8 @@
      "status": "Current",
      "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/16321-wiring-drawings-d6.pdf"
     }
-   ]
+   ],
+   "thumb": "thumbs/exj-16321.jpg"
   },
   {
    "id": "florence-2-16463",
@@ -1312,7 +1324,8 @@
      "status": "On file",
      "url": "files/exj-17385/energy-calc.pdf"
     }
-   ]
+   ],
+   "thumb": "thumbs/exj-17385.jpg"
   },
   {
    "id": "circles-of-care",
@@ -1358,7 +1371,8 @@
      "status": "On file — covers every Florence 1 house",
      "url": "files/models/florence-1/energy-calc.pdf"
     }
-   ]
+   ],
+   "thumb": "thumbs/florence-1-model.jpg"
   },
   {
    "id": "johnson",
@@ -1463,7 +1477,8 @@
      "status": "Download pending",
      "note": "6 more per-sheet PDFs sit in office email. Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry."
     }
-   ]
+   ],
+   "thumb": "thumbs/shores-2857.jpg"
   },
   {
    "id": "si-homes-4160",

@@ -92,7 +92,7 @@ function renderList() {
       .map((j) => {
         const n = j.sets.filter((s) => setRelevant(s, tab)).length;
         return `<button class="row" data-job="${esc(j.id)}">
-          <div class="row-thumb">${TAB_ICONS[tab] || TAB_ICONS.master}</div>
+          <div class="row-thumb${j.thumb ? " has-img" : ""}">${j.thumb ? `<img src="${esc(j.thumb)}" alt="" loading="lazy">` : TAB_ICONS[tab] || TAB_ICONS.master}</div>
           <div class="row-main">
             <div class="row-title">${esc(j.key)}</div>
             <div class="row-sub">${esc(j.builder || "")}${j.model ? " · " + esc(j.model) : ""}</div>
