@@ -1,29 +1,182 @@
 {
- "updatedAt": "2026-11-20",
+ "version": 4,
  "jobs": [
   {
+   "id": "ludlow-30",
+   "key": "30 Ludlow Lane E, Palm Coast, FL",
+   "name": "30 Ludlow Lane E — Grand Cayman",
+   "builder": "Strada Services",
+   "address": "30 Ludlow Lane E, Palm Coast, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": [
+     [
+      "Plan",
+      "Grand Cayman 3 Car · 1,974 SF (per Strada email)"
+     ]
+    ]
+   },
+   "sets": [
+    {
+     "name": "No plans in email",
+     "group": "master",
+     "status": "Warehouse pickup",
+     "note": "The job pack is a Strada warehouse pickup — no plan PDF in email."
+    }
+   ]
+  },
+  {
+   "id": "ludlow-32",
+   "key": "32 Ludlow Lane E, Palm Coast, FL",
+   "name": "32 Ludlow Lane E — St Augustine",
+   "builder": "Strada Services",
+   "address": "32 Ludlow Lane E, Palm Coast, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": [
+     [
+      "Plan",
+      "St Augustine 3 Car · 1,829 SF (per Strada email)"
+     ]
+    ]
+   },
+   "sets": [
+    {
+     "name": "No plans in email",
+     "group": "master",
+     "status": "Warehouse pickup",
+     "note": "The job pack is a Strada warehouse pickup — no plan PDF in email."
+    }
+   ]
+  },
+  {
+   "id": "madhosingh",
+   "key": "109 Forest Park Ct, Longwood, FL",
+   "name": "Madhosingh Residence",
+   "builder": "NOK Construction",
+   "address": "109 Forest Park Ct, Longwood, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Permit Set — Sealed (VF1)",
+     "group": "master",
+     "status": "Too large to pull from email",
+     "note": "Sealed set (8.9 MB) attached to Chris's RFQ on 2026-10-29 — over the mail tool's limit. Save it from Gmail and it can be filed and split. NOK point man: Dan Denault."
+    }
+   ]
+  },
+  {
+   "id": "glaze",
+   "key": "132 Balmy Coast Rd, Groveland, FL",
+   "name": "Glaze Residence",
+   "builder": "NOK Construction",
+   "address": "132 Balmy Coast Rd, Groveland, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Electrical Layout Plan",
+     "group": "electrical",
+     "status": "Download pending",
+     "note": "GLAZE-04-5.pdf (400 KB), attached to Chris's RFQ on 2026-08-28. Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry."
+    },
+    {
+     "name": "Glaze Permit Set",
+     "group": "master",
+     "note": "Shared by Google Drive link in Chris's 2026-10-21 email.",
+     "url": "https://drive.google.com/file/d/1VkDq0J0Tj3l-cm-nzwobZdX-HsgdLHxg/view",
+     "statusLabel": "Google Drive link"
+    }
+   ]
+  },
+  {
+   "id": "fisher",
+   "key": "178 Fisher Loop, Ocklawaha, FL",
+   "name": "178 Fisher Loop",
+   "builder": "BR Ross Construction",
+   "address": "178 Fisher Loop, Ocklawaha, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": 1671,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Permit Set · Diamond 3.2",
+     "group": "master",
+     "rev": "Diamond 3.2",
+     "status": "Not filed yet",
+     "note": "The set sits in a 21 MB ZIP in the office email (BR Ross, Nov 2) — too large to pull through the mail tool (about a 6 MB limit). Save the ZIP from Gmail and it can be filed and split by discipline."
+    }
+   ]
+  },
+  {
    "id": "exj-212",
+   "key": "212 Marion Oaks Golf Rd, Ocala, FL",
    "name": "212 Marion Oaks Golf Rd",
    "builder": "EXJ Root",
    "address": "212 Marion Oaks Golf Rd, Ocala, FL",
-   "livingSf": 2325,
-   "underRoofSf": 3076,
-   "tonnage": "3.5 ton",
-   "serviceSize": null,
+   "byModel": false,
+   "details": {
+    "livingSf": 2325,
+    "underRoofSf": 3076,
+    "tonnage": "3.5 ton",
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
-     "name": "Master Plan Set \u00b7 Florence 1",
-     "kind": "Builder plan set",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
+     "name": "Master Plan Set · Florence 1",
+     "group": "master",
      "status": "On file",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/212-master-drawing.pdf"
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/212-master-drawing.pdf",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/exj-212/plan-set-architectural.pdf",
+       "pages": 9,
+       "sheets": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A9"
+       ]
+      }
+     ],
+     "note": "This set is architectural sheets only (A1–A9) — the electrical sheets are the Wiring Drawings below."
     },
     {
      "name": "Wiring Drawings",
-     "kind": "Sharma drawings",
-     "trade": "Electrical",
-     "cat": "elec",
+     "group": "electrical",
      "rev": "D6",
      "status": "Current",
      "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/212-wiring-drawings-d6.pdf"
@@ -31,147 +184,71 @@
    ]
   },
   {
-   "id": "exj-17385",
-   "name": "17385 SW 25th Cir",
-   "builder": "EXJ Root",
-   "address": "17385 SW 25th Cir, Ocala, FL",
-   "livingSf": 2325,
-   "underRoofSf": 3076,
-   "tonnage": "3.5 ton",
-   "serviceSize": null,
+   "id": "miami-adventist",
+   "key": "500 NW 122nd Ave, Miami, FL",
+   "name": "Greater Miami Adventist Academy",
+   "builder": "Danto Builders",
+   "address": "500 NW 122nd Ave, Miami, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
-     "name": "Master Plan Set \u00b7 Florence 1",
-     "kind": "Builder plan set",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
-     "status": "On file",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/17385-master-drawing.pdf"
-    },
-    {
-     "name": "Wiring Drawings",
-     "kind": "Sharma drawings",
-     "trade": "Electrical",
-     "cat": "elec",
-     "rev": "D6",
-     "status": "Current",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/17385-wiring-drawings-d6.pdf"
-    },
-    {
-     "name": "Load Calc \u00b7 Manual J",
-     "kind": "HVAC calc",
-     "trade": "HVAC",
-     "cat": "hvac",
-     "status": "On file \u2014 3.5 ton / 41,000 Btuh",
-     "url": "files/exj-17385/load-calc.pdf"
-    },
-    {
-     "name": "Duct Layout \u00b7 A/C-1",
-     "kind": "HVAC drawing",
-     "trade": "HVAC",
-     "cat": "hvac",
-     "status": "On file \u2014 3.5 ton, 14.5 SEER2 HP",
-     "url": "files/exj-17385/duct-layout.pdf"
-    },
-    {
-     "name": "Energy Calc \u00b7 17385",
-     "kind": "Energy forms",
-     "trade": "HVAC",
-     "cat": "hvac",
-     "status": "On file",
-     "url": "files/exj-17385/energy-calc.pdf"
-    }
-   ]
-  },
-  {
-   "id": "exj-14065",
-   "name": "14065 SW 48th Ave",
-   "builder": "EXJ Root",
-   "address": "14065 SW 48th Ave, Ocala, FL",
-   "livingSf": 2123,
-   "underRoofSf": 2788,
-   "tonnage": null,
-   "serviceSize": null,
-   "sets": [
-    {
-     "name": "Approved Plan Set \u00b7 Milano",
-     "kind": "Builder plan set",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
-     "status": "Approved",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/14065-approved-plans-milano.pdf"
-    },
-    {
-     "name": "Wiring Drawings",
-     "kind": "Sharma drawings",
-     "trade": "Electrical",
-     "cat": "elec",
-     "rev": "D6",
-     "status": "Current",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/14065-wiring-drawings-d6.pdf"
-    },
-    {
-     "name": "Engineered Plan Set \u00b7 Milano",
-     "kind": "Engineered set",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
-     "status": "Office copy only \u2014 full set not yet uploaded",
-     "url": null
-    }
-   ]
-  },
-  {
-   "id": "exj-16321",
-   "name": "16321 SW 26th Terrace Rd",
-   "builder": "EXJ Root",
-   "address": "16321 SW 26th Terrace Rd, Ocala, FL",
-   "livingSf": 2325,
-   "underRoofSf": 3076,
-   "tonnage": "3.5 ton",
-   "serviceSize": null,
-   "sets": [
-    {
-     "name": "Approved Plan Set \u00b7 Florence 1",
-     "kind": "Builder plan set",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
-     "status": "Approved",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/16321-approved-plans-florence-1.pdf"
-    },
-    {
-     "name": "Wiring Drawings",
-     "kind": "Sharma drawings",
-     "trade": "Electrical",
-     "cat": "elec",
-     "rev": "D6",
-     "status": "Current",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/16321-wiring-drawings-d6.pdf"
+     "name": "95% Construction Drawings",
+     "group": "master",
+     "status": "Dropbox link in email",
+     "note": "Drawing package (Civil Project No. 25-00025) shared by a Dropbox folder link — not pulled into the app."
     }
    ]
   },
   {
    "id": "exj-601",
+   "key": "601 Marion Oaks Golf Rd, Ocala, FL",
    "name": "601 Marion Oaks Golf Rd",
    "builder": "EXJ Root",
    "address": "601 Marion Oaks Golf Rd, Ocala, FL",
-   "livingSf": 2325,
-   "underRoofSf": 3076,
-   "tonnage": "3.5 ton",
-   "serviceSize": null,
+   "byModel": false,
+   "details": {
+    "livingSf": 2325,
+    "underRoofSf": 3076,
+    "tonnage": "3.5 ton",
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
-     "name": "Approved Plan Set \u00b7 Florence 1",
-     "kind": "Builder plan set",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
+     "name": "Approved Plan Set · Florence 1",
+     "group": "master",
      "status": "Approved",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/601-approved-plans-florence-1.pdf"
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/601-approved-plans-florence-1.pdf",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/exj-601/plan-set-architectural.pdf",
+       "pages": 9,
+       "sheets": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A9"
+       ]
+      }
+     ],
+     "note": "Architectural sheets only (A1–A9) — electrical is in the Wiring Drawings."
     },
     {
      "name": "Wiring Drawings",
-     "kind": "Sharma drawings",
-     "trade": "Electrical",
-     "cat": "elec",
+     "group": "electrical",
      "rev": "D6",
      "status": "Current",
      "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/601-wiring-drawings-d6.pdf"
@@ -179,140 +256,238 @@
    ]
   },
   {
-   "id": "florence-1-model",
-   "name": "Florence 1 \u2014 Model",
-   "builder": "EXJ Root",
-   "address": null,
-   "byModel": true,
-   "livingSf": 2325,
-   "underRoofSf": 3076,
-   "tonnage": "3.5 ton",
-   "serviceSize": null,
+   "id": "lindsey",
+   "key": "1311 Silverstone Ave, Orlando, FL",
+   "name": "Lindsey Addition",
+   "builder": "NOK Construction",
+   "address": "1311 Silverstone Ave, Orlando, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
-     "name": "Energy Calc \u00b7 Florence 1 (all Florence houses)",
-     "kind": "Energy forms",
-     "trade": "HVAC",
-     "cat": "hvac",
-     "status": "On file \u2014 covers every Florence 1 house",
-     "url": "files/models/florence-1/energy-calc.pdf"
+     "name": "Structural Review Set",
+     "group": "master",
+     "note": "10 sheets, 1nception Drafting & Design, 08.28.2026 — shared by Google Drive link in the 2026-10-07 RFQ emails. ~263 SF master bedroom extension.",
+     "url": "https://drive.google.com/file/d/1EglYVMjrrw_gtXoSrdhS9rl09Lp03eKT/view",
+     "statusLabel": "Google Drive link"
     }
    ]
   },
   {
-   "id": "logan-lot69",
-   "name": "Lot 69 Bella Collina",
-   "builder": "Logan Construction",
-   "address": "16051 Vetta Dr, Montverde, FL",
-   "livingSf": 5281,
-   "underRoofSf": 7058,
-   "tonnage": null,
-   "serviceSize": null,
+   "id": "townes-at-sebring",
+   "key": "2200 Scenic HWY, Sebring, FL",
+   "name": "Townes at Sebring",
+   "builder": "Rocklyn Homes",
+   "address": "2200 Scenic HWY, Sebring, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
-     "name": "Plan Set \u00b7 E06137-26",
-     "kind": "Builder plan set",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
-     "rev": "E06137-26",
-     "status": "On file",
-     "url": "files/logan/plan-set-e06137-26.pdf"
-    },
-    {
-     "name": "Energy Forms",
-     "kind": "Energy forms",
-     "trade": "HVAC",
-     "cat": "hvac",
-     "status": "On file",
-     "url": "files/logan/energy-forms.pdf"
+     "name": "Townhome Plans · Bella / Juliet / Verona",
+     "group": "master",
+     "status": "SharePoint link — not pulled yet",
+     "note": "Alanna Brewer Jenkins linked the plans by SharePoint on 2026-11-03 — they were never attached to email. Sharma's bid packets went out Nov 3–5 (Bella #1285, Juliet #1286, Verona #1287)."
     }
    ]
   },
   {
-   "id": "mukherjee",
-   "name": "Mukherjee Residence",
-   "builder": "DNR Contracting",
-   "address": "4008 W El Prado Blvd, Tampa, FL",
-   "livingSf": 5123,
-   "underRoofSf": null,
-   "tonnage": null,
-   "serviceSize": null,
+   "id": "lucien-301",
+   "key": "2250 Lucien Way, Suite 301, Maitland, FL",
+   "name": "2250 Lucien Way Suite 301 — Metro Consulting",
+   "builder": "Timed Construction",
+   "address": "2250 Lucien Way, Suite 301, Maitland, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
-     "name": "Electrical Drawing Set",
-     "kind": "Sharma drawings",
-     "trade": "Electrical",
-     "cat": "elec",
-     "status": "Working set on file",
-     "url": "files/mukherjee/electrical-set.pdf"
+     "name": "RFP Plan Set — Metro Consulting",
+     "group": "master",
+     "status": "Download pending",
+     "note": "The GC sent disciplines as separate PDFs: Electrical (748 KB) and Plumbing (857 KB + 672 KB) — downloads blocked by the mail tool on 2026-11-20, refs on file. The Architectural PDF (6.6 MB) is over the pull limit."
+    }
+   ]
+  },
+  {
+   "id": "lucien-305",
+   "key": "2250 Lucien Way, Suite 305, Maitland, FL",
+   "name": "2250 Lucien Way Suite 305 — Ellie / 5 Shine",
+   "builder": "Timed Construction",
+   "address": "2250 Lucien Way, Suite 305, Maitland, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "RFP Plan Set — Ellie / 5 Shine",
+     "group": "master",
+     "status": "Download pending",
+     "note": "Electrical (3.8 MB) and Mechanical/Fire (3.2 MB) PDFs attached to the RFP — downloads blocked by the mail tool on 2026-11-20, refs on file. The Architectural PDF (10.6 MB) is over the pull limit."
+    }
+   ]
+  },
+  {
+   "id": "carras",
+   "key": "2803 Wright Ave, Winter Park, FL",
+   "name": "Carras Residence",
+   "builder": "Groninger Custom Homes",
+   "address": "2803 Wright Ave, Winter Park, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Construction Documents (ConDocs)",
+     "group": "master",
+     "status": "Too large to pull from email",
+     "note": "Full set (7.7 MB) attached by Keith Groninger on 2026-10-08 — over the mail tool's limit. Save it from Gmail and it can be filed and split by discipline."
     }
    ]
   },
   {
    "id": "antle",
+   "key": "3119 Colorado Ave, Orlando, FL",
    "name": "Antle Residence Addition",
    "builder": "NOK Construction",
    "address": "3119 Colorado Ave, Orlando, FL",
-   "livingSf": 2067,
-   "underRoofSf": null,
-   "tonnage": null,
-   "serviceSize": null,
+   "byModel": false,
+   "details": {
+    "livingSf": 2067,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
      "name": "Updated Plan Set",
-     "kind": "Builder plan set",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
+     "group": "master",
      "date": "2026-10-29",
      "status": "Updated set",
-     "url": "files/antle/updated-plan-set.pdf"
+     "url": "files/antle/updated-plan-set.pdf",
+     "parts": [
+      {
+       "discipline": "Civil",
+       "url": "files/antle/plan-set-civil.pdf",
+       "pages": 1,
+       "sheets": [
+        "C"
+       ]
+      },
+      {
+       "discipline": "Other",
+       "url": "files/antle/plan-set-other.pdf",
+       "pages": 1,
+       "sheets": [
+        "GN"
+       ]
+      },
+      {
+       "discipline": "Architectural",
+       "url": "files/antle/plan-set-architectural.pdf",
+       "pages": 3,
+       "sheets": [
+        "01",
+        "02",
+        "03"
+       ]
+      },
+      {
+       "discipline": "Electrical",
+       "url": "files/antle/plan-set-electrical.pdf",
+       "pages": 1,
+       "sheets": [
+        "05"
+       ]
+      },
+      {
+       "discipline": "Structural",
+       "url": "files/antle/plan-set-structural.pdf",
+       "pages": 5,
+       "sheets": [
+        "S1",
+        "S2",
+        "S3",
+        "SD1",
+        "SD2"
+       ]
+      }
+     ],
+     "note": "Split by the set's own drawing index (1NCEPTION Drafting, 10.15.2025)."
     },
     {
      "name": "Wire Layout",
-     "kind": "Sharma drawings",
-     "trade": "Electrical",
-     "cat": "elec",
+     "group": "electrical",
      "rev": "R1",
      "status": "Current",
-     "url": "files/antle/wire-layout-r1.pdf",
-     "revisions": [
-      {
-       "label": "Draft 0",
-       "status": "Superseded",
-       "url": "files/antle/wire-layout-draft-0.pdf"
-      },
-      {
-       "label": "Draft 1",
-       "status": "Superseded",
-       "url": "files/antle/wire-layout-draft-1.pdf"
-      },
-      {
-       "label": "R1",
-       "status": "Current",
-       "url": "files/antle/wire-layout-r1.pdf"
-      }
-     ]
+     "url": "files/antle/wire-layout-r1.pdf"
+    },
+    {
+     "name": "Wire Layout · Draft 0",
+     "group": "electrical",
+     "rev": "Draft 0",
+     "status": "Superseded",
+     "archived": true,
+     "url": "files/antle/wire-layout-draft-0.pdf"
+    },
+    {
+     "name": "Wire Layout · Draft 1",
+     "group": "electrical",
+     "rev": "Draft 1",
+     "status": "Superseded",
+     "archived": true,
+     "url": "files/antle/wire-layout-draft-1.pdf"
     }
    ]
   },
   {
    "id": "eunice-3131",
+   "key": "3131 W Eunice Dr, Citrus Springs, FL",
    "name": "3131 W Eunice Dr",
    "builder": "Z Brothers Construction",
    "address": "3131 W Eunice Dr, Citrus Springs, FL",
-   "livingSf": 1661,
-   "underRoofSf": 2243,
-   "tonnage": null,
-   "serviceSize": null,
+   "byModel": false,
+   "details": {
+    "livingSf": 1661,
+    "underRoofSf": 2243,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
-     "name": "Plan Sheets (19 sheets)",
-     "kind": "Builder plan set \u2014 sheet view",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
+     "name": "Plan Sheets · NONA 1672 (sheet view)",
+     "group": "master",
      "rev": "NONA 1672",
      "status": "On file",
-     "sheets": [
+     "images": [
       "files/eunice/3131/sheet-01.webp",
       "files/eunice/3131/sheet-02.webp",
       "files/eunice/3131/sheet-03.webp",
@@ -333,27 +508,83 @@
       "files/eunice/3131/sheet-18.webp",
       "files/eunice/3131/sheet-19.webp"
      ]
+    },
+    {
+     "name": "Plan Set · NONA 1672",
+     "group": "master",
+     "rev": "NONA 1672",
+     "status": "On file",
+     "note": "ArciDynamics numbers every sheet A-… — the Electrical Plan (A-801.A) and Plumbing Layout (A-051.A) are singled out below by their printed titles.",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/eunice/3131/plan-set-architectural.pdf",
+       "pages": 17,
+       "sheets": [
+        "A-001.A",
+        "A-002.A",
+        "A-050.A",
+        "A-051.A",
+        "A-060.A",
+        "A-101.A",
+        "A-201.A",
+        "A-301.A",
+        "A-401.A",
+        "A-801.A",
+        "A-900",
+        "A-901",
+        "A-902",
+        "A-903",
+        "A-904"
+       ]
+      },
+      {
+       "discipline": "Electrical",
+       "url": "files/eunice/3131/plan-set-electrical.pdf",
+       "pages": 1,
+       "sheets": [
+        "A-801.A"
+       ]
+      },
+      {
+       "discipline": "Plumbing",
+       "url": "files/eunice/3131/plan-set-plumbing.pdf",
+       "pages": 1,
+       "sheets": [
+        "A-051.A"
+       ]
+      },
+      {
+       "discipline": "Other",
+       "url": "files/eunice/3131/plan-set-other.pdf",
+       "pages": 2,
+       "sheets": []
+      }
+     ]
     }
    ]
   },
   {
    "id": "eunice-3262",
+   "key": "3262 W Eunice Dr, Citrus Springs, FL",
    "name": "3262 W Eunice Dr",
    "builder": "Z Brothers Construction",
    "address": "3262 W Eunice Dr, Citrus Springs, FL",
-   "livingSf": 1661,
-   "underRoofSf": 2243,
-   "tonnage": null,
-   "serviceSize": null,
+   "byModel": false,
+   "details": {
+    "livingSf": 1661,
+    "underRoofSf": 2243,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
-     "name": "Plan Sheets (19 sheets)",
-     "kind": "Builder plan set \u2014 sheet view",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
+     "name": "Plan Sheets · NONA 1672 (sheet view)",
+     "group": "master",
      "rev": "NONA 1672",
      "status": "On file",
-     "sheets": [
+     "images": [
       "files/eunice/3262/sheet-01.webp",
       "files/eunice/3262/sheet-02.webp",
       "files/eunice/3262/sheet-03.webp",
@@ -374,27 +605,83 @@
       "files/eunice/3262/sheet-18.webp",
       "files/eunice/3262/sheet-19.webp"
      ]
+    },
+    {
+     "name": "Plan Set · NONA 1672",
+     "group": "master",
+     "rev": "NONA 1672",
+     "status": "On file",
+     "note": "ArciDynamics numbers every sheet A-… — the Electrical Plan (A-801.A) and Plumbing Layout (A-051.A) are singled out below by their printed titles.",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/eunice/3262/plan-set-architectural.pdf",
+       "pages": 18,
+       "sheets": [
+        "A-001.A",
+        "A-002.A",
+        "A-050.A",
+        "A-051.A",
+        "A-060.A",
+        "A-101.A",
+        "A-201.A",
+        "A-301.A",
+        "A-401.A",
+        "A-801.A",
+        "A-900",
+        "A-901",
+        "A-902",
+        "A-903",
+        "A-904"
+       ]
+      },
+      {
+       "discipline": "Electrical",
+       "url": "files/eunice/3262/plan-set-electrical.pdf",
+       "pages": 1,
+       "sheets": [
+        "A-801.A"
+       ]
+      },
+      {
+       "discipline": "Plumbing",
+       "url": "files/eunice/3262/plan-set-plumbing.pdf",
+       "pages": 1,
+       "sheets": [
+        "A-051.A"
+       ]
+      },
+      {
+       "discipline": "Other",
+       "url": "files/eunice/3262/plan-set-other.pdf",
+       "pages": 2,
+       "sheets": []
+      }
+     ]
     }
    ]
   },
   {
    "id": "eunice-3274",
+   "key": "3274 W Eunice Dr, Citrus Springs, FL",
    "name": "3274 W Eunice Dr",
    "builder": "Z Brothers Construction",
    "address": "3274 W Eunice Dr, Citrus Springs, FL",
-   "livingSf": 1661,
-   "underRoofSf": 2243,
-   "tonnage": null,
-   "serviceSize": null,
+   "byModel": false,
+   "details": {
+    "livingSf": 1661,
+    "underRoofSf": 2243,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
-     "name": "Plan Sheets (19 sheets)",
-     "kind": "Builder plan set \u2014 sheet view",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
+     "name": "Plan Sheets · NONA 1672 (sheet view)",
+     "group": "master",
      "rev": "NONA 1672",
      "status": "On file",
-     "sheets": [
+     "images": [
       "files/eunice/3274/sheet-01.webp",
       "files/eunice/3274/sheet-02.webp",
       "files/eunice/3274/sheet-03.webp",
@@ -415,27 +702,83 @@
       "files/eunice/3274/sheet-18.webp",
       "files/eunice/3274/sheet-19.webp"
      ]
+    },
+    {
+     "name": "Plan Set · NONA 1672",
+     "group": "master",
+     "rev": "NONA 1672",
+     "status": "On file",
+     "note": "ArciDynamics numbers every sheet A-… — the Electrical Plan (A-801.A) and Plumbing Layout (A-051.A) are singled out below by their printed titles.",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/eunice/3274/plan-set-architectural.pdf",
+       "pages": 17,
+       "sheets": [
+        "A-001.A",
+        "A-002.A",
+        "A-050.A",
+        "A-051.A",
+        "A-060.A",
+        "A-101.A",
+        "A-201.A",
+        "A-301.A",
+        "A-401.A",
+        "A-801.A",
+        "A-900",
+        "A-901",
+        "A-902",
+        "A-903",
+        "A-904"
+       ]
+      },
+      {
+       "discipline": "Electrical",
+       "url": "files/eunice/3274/plan-set-electrical.pdf",
+       "pages": 1,
+       "sheets": [
+        "A-801.A"
+       ]
+      },
+      {
+       "discipline": "Plumbing",
+       "url": "files/eunice/3274/plan-set-plumbing.pdf",
+       "pages": 1,
+       "sheets": [
+        "A-051.A"
+       ]
+      },
+      {
+       "discipline": "Other",
+       "url": "files/eunice/3274/plan-set-other.pdf",
+       "pages": 2,
+       "sheets": []
+      }
+     ]
     }
    ]
   },
   {
    "id": "eunice-3286",
+   "key": "3286 W Eunice Dr, Citrus Springs, FL",
    "name": "3286 W Eunice Dr",
    "builder": "Z Brothers Construction",
    "address": "3286 W Eunice Dr, Citrus Springs, FL",
-   "livingSf": 1661,
-   "underRoofSf": 2243,
-   "tonnage": null,
-   "serviceSize": null,
+   "byModel": false,
+   "details": {
+    "livingSf": 1661,
+    "underRoofSf": 2243,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
-     "name": "Plan Sheets (19 sheets)",
-     "kind": "Builder plan set \u2014 sheet view",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
+     "name": "Plan Sheets · NONA 1672 (sheet view)",
+     "group": "master",
      "rev": "NONA 1672",
      "status": "On file",
-     "sheets": [
+     "images": [
       "files/eunice/3286/sheet-01.webp",
       "files/eunice/3286/sheet-02.webp",
       "files/eunice/3286/sheet-03.webp",
@@ -456,48 +799,802 @@
       "files/eunice/3286/sheet-18.webp",
       "files/eunice/3286/sheet-19.webp"
      ]
+    },
+    {
+     "name": "Plan Set · NONA 1672",
+     "group": "master",
+     "rev": "NONA 1672",
+     "status": "On file",
+     "note": "ArciDynamics numbers every sheet A-… — the Electrical Plan (A-801.A) and Plumbing Layout (A-051.A) are singled out below by their printed titles.",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/eunice/3286/plan-set-architectural.pdf",
+       "pages": 17,
+       "sheets": [
+        "A-001.A",
+        "A-002.A",
+        "A-050.A",
+        "A-051.A",
+        "A-060.A",
+        "A-101.A",
+        "A-201.A",
+        "A-301.A",
+        "A-401.A",
+        "A-801.A",
+        "A-900",
+        "A-901",
+        "A-902",
+        "A-903",
+        "A-904"
+       ]
+      },
+      {
+       "discipline": "Electrical",
+       "url": "files/eunice/3286/plan-set-electrical.pdf",
+       "pages": 1,
+       "sheets": [
+        "A-801.A"
+       ]
+      },
+      {
+       "discipline": "Plumbing",
+       "url": "files/eunice/3286/plan-set-plumbing.pdf",
+       "pages": 1,
+       "sheets": [
+        "A-051.A"
+       ]
+      },
+      {
+       "discipline": "Other",
+       "url": "files/eunice/3286/plan-set-other.pdf",
+       "pages": 2,
+       "sheets": []
+      }
+     ]
     }
    ]
   },
   {
-   "id": "fisher",
-   "name": "178 Fisher Loop",
-   "builder": "BR Ross Construction",
-   "address": "178 Fisher Loop, Ocklawaha, FL",
-   "livingSf": 1671,
-   "underRoofSf": null,
-   "tonnage": null,
-   "serviceSize": null,
+   "id": "mukherjee",
+   "key": "4008 W El Prado Blvd, Tampa, FL",
+   "name": "Mukherjee Residence",
+   "builder": "DNR Contracting",
+   "address": "4008 W El Prado Blvd, Tampa, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": 5123,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
-     "name": "Permit Set \u00b7 Diamond 3.2",
-     "kind": "Builder plan set",
-     "trade": "Plans \u2014 all trades",
-     "cat": "master",
-     "rev": "Diamond 3.2",
-     "status": "Not filed yet \u2014 set sits in a 21 MB ZIP in the office email (Nov 2); too large to pull from there",
-     "url": null
+     "name": "Electrical Drawing Set",
+     "group": "electrical",
+     "status": "Working set on file",
+     "url": "files/mukherjee/electrical-set.pdf",
+     "note": "Sharma's electrical set for the job. The architect's electrical sheets E-01 to E-03 are referenced in the submittal package but are not on file."
+    }
+   ]
+  },
+  {
+   "id": "orange-5111",
+   "key": "5111 S Orange Ave, Orlando, FL",
+   "name": "5111 S Orange Ave — Meter/Service",
+   "builder": "NOK Construction",
+   "address": "5111 S Orange Ave, Orlando, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "No plans on file",
+     "group": "master",
+     "status": "No plans in email",
+     "note": "Meter base and service replacement — no prints were attached or linked in the thread. Orange County permit E26013927."
+    }
+   ]
+  },
+  {
+   "id": "lululemon",
+   "key": "8001 S Orange Blossom Trail, Orlando, FL",
+   "name": "Lululemon — Florida Mall, Suite 440A",
+   "builder": "Donald Borg Construction",
+   "address": "8001 S Orange Blossom Trail, Orlando, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "No plans in email",
+     "group": "master",
+     "status": "On BuildingConnected",
+     "note": "The Issue-for-Bid set (10/30/2026) came through BuildingConnected — no plan PDF in email."
+    }
+   ]
+  },
+  {
+   "id": "labonge",
+   "key": "9538 Pine Terrace Court, Windermere, FL",
+   "name": "Labonge Addition",
+   "builder": "NOK Construction",
+   "address": "9538 Pine Terrace Court, Windermere, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Structural Review Set",
+     "group": "master",
+     "note": "Shared by Google Drive link in the 2026-10-07 RFQ emails (a second copy rides the HVAC thread). ~300 SF addition: bathroom, office, hallway.",
+     "url": "https://drive.google.com/file/d/1iocOJmzhGkqUyMKTUOf1i_-Cv1I4NtS9/view",
+     "statusLabel": "Google Drive link"
     }
    ]
   },
   {
    "id": "blandford",
+   "key": "9700 Blandford, Orlando, FL",
    "name": "9700 Blandford",
    "builder": "MRCELA Custom Homes",
    "address": "9700 Blandford, Orlando, FL",
-   "livingSf": null,
-   "underRoofSf": null,
-   "tonnage": null,
-   "serviceSize": null,
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
    "sets": [
     {
-     "name": "Electrical Sheets \u00b7 E1.1 / E1.2",
-     "kind": "Sharma scope sheets",
-     "trade": "Electrical",
-     "cat": "elec",
+     "name": "Electrical Sheets · E1.1 / E1.2",
+     "group": "electrical",
      "rev": "E1.1 / E1.2",
-     "status": "Sheet captures live in the Blandford tracker \u2014 full plan set not on file",
-     "url": null
+     "status": "Sheet captures on file",
+     "images": [
+      "files/blandford/sheet-e1.1.png",
+      "files/blandford/sheet-e1.2.png"
+     ],
+     "note": "Full-sheet captures of E1.1 (1st floor power & lighting) and E1.2 (2nd floor). The full permit set lives on MRCELA's OneDrive — not on file."
+    }
+   ]
+  },
+  {
+   "id": "zorn-rolling-hills",
+   "key": "12185 SW 98th St, Dunnellon, FL",
+   "name": "Zorn — Rolling Hills",
+   "builder": "Zorn Construction",
+   "address": "12185 SW 98th St, Dunnellon, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "No plans on file",
+     "group": "master",
+     "status": "No plans in email",
+     "note": "Contact and a site meeting only — no plan attachments anywhere in the thread."
+    }
+   ]
+  },
+  {
+   "id": "saic",
+   "key": "13501 Ingenuity Dr, Suite 300, Orlando, FL",
+   "name": "SAIC Orlando TI",
+   "builder": "DSA Empire",
+   "address": "13501 Ingenuity Dr, Suite 300, Orlando, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Permit Set Drawings · 08/28/2026",
+     "group": "master",
+     "status": "Download pending",
+     "note": "SAIC_Orlando_Drawings.pdf (2.8 MB, 18 pp), sent by Dan Golub on 2026-11-18. Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry."
+    }
+   ]
+  },
+  {
+   "id": "exj-14065",
+   "key": "14065 SW 48th Ave, Ocala, FL",
+   "name": "14065 SW 48th Ave",
+   "builder": "EXJ Root",
+   "address": "14065 SW 48th Ave, Ocala, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": 2123,
+    "underRoofSf": 2788,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Approved Plan Set · Milano",
+     "group": "master",
+     "status": "Approved",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/14065-approved-plans-milano.pdf",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/exj-14065/plan-set-architectural.pdf",
+       "pages": 9,
+       "sheets": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A9"
+       ]
+      }
+     ],
+     "note": "Architectural sheets only (A1–A9) — electrical is in the Wiring Drawings."
+    },
+    {
+     "name": "Wiring Drawings",
+     "group": "electrical",
+     "rev": "D6",
+     "status": "Current",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/14065-wiring-drawings-d6.pdf"
+    },
+    {
+     "name": "Engineered Electrical Set · Milano",
+     "group": "electrical",
+     "status": "On file — v1",
+     "url": "files/exj-14065/engineered-electrical.pdf",
+     "note": "Sharma's engineered electrical set for the Milano (200A service; crew reference, not for construction). v1 (E-0–E-2) filed here; v2–v6 sit in the office folder — v6 is the latest (2026-11-08)."
+    }
+   ]
+  },
+  {
+   "id": "haughton",
+   "key": "14410 Ainsdale Ct",
+   "name": "Haughton Patio",
+   "builder": "NOK Construction",
+   "address": "14410 Ainsdale Ct",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Rough Electrical Layout — Patio",
+     "group": "electrical",
+     "note": "Shared by Adobe cloud link in the 2026-11-19 email. Address is from the office job record — the email itself states no address. Sharma sent Quote #1297 on 2026-11-20.",
+     "url": "https://acrobat.adobe.com/id/urn:aaid:sc:US:e349fc3b-31ff-498d-bd4c-24d0200f828d",
+     "statusLabel": "Adobe cloud link"
+    }
+   ]
+  },
+  {
+   "id": "logan-lot69",
+   "key": "16051 Vetta Dr, Montverde, FL",
+   "name": "Lot 69 Bella Collina",
+   "builder": "Logan Construction",
+   "address": "16051 Vetta Dr, Montverde, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": 5281,
+    "underRoofSf": 7058,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Plan Set · E06137-26",
+     "group": "master",
+     "rev": "E06137-26",
+     "status": "On file",
+     "url": "files/logan/plan-set-e06137-26.pdf",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/logan/plan-set-architectural.pdf",
+       "pages": 4,
+       "sheets": [
+        "005",
+        "006",
+        "008",
+        "011"
+       ]
+      },
+      {
+       "discipline": "Structural",
+       "url": "files/logan/plan-set-structural.pdf",
+       "pages": 1,
+       "sheets": [
+        "007"
+       ]
+      },
+      {
+       "discipline": "Electrical",
+       "url": "files/logan/plan-set-electrical.pdf",
+       "pages": 2,
+       "sheets": [
+        "009",
+        "010"
+       ]
+      },
+      {
+       "discipline": "Other",
+       "url": "files/logan/plan-set-other.pdf",
+       "pages": 4,
+       "sheets": [
+        "001",
+        "002",
+        "003",
+        "004"
+       ]
+      }
+     ],
+     "note": "This set's sheets carry no letter codes — pages are singled out by the titles in the set's own drawing index (009 Floor Plan 3 & Electrical, 010 Electrical & Floor Framing)."
+    },
+    {
+     "name": "Energy Forms",
+     "group": "hvac",
+     "status": "On file",
+     "url": "files/logan/energy-forms.pdf"
+    }
+   ]
+  },
+  {
+   "id": "exj-16321",
+   "key": "16321 SW 26th Terrace Rd, Ocala, FL",
+   "name": "16321 SW 26th Terrace Rd",
+   "builder": "EXJ Root",
+   "address": "16321 SW 26th Terrace Rd, Ocala, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": 2325,
+    "underRoofSf": 3076,
+    "tonnage": "3.5 ton",
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Approved Plan Set · Florence 1",
+     "group": "master",
+     "status": "Approved",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/16321-approved-plans-florence-1.pdf",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/exj-16321/plan-set-architectural.pdf",
+       "pages": 9,
+       "sheets": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A9"
+       ]
+      }
+     ],
+     "note": "Architectural sheets only (A1–A9) — electrical is in the Wiring Drawings."
+    },
+    {
+     "name": "Wiring Drawings",
+     "group": "electrical",
+     "rev": "D6",
+     "status": "Current",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/16321-wiring-drawings-d6.pdf"
+    }
+   ]
+  },
+  {
+   "id": "florence-2-16463",
+   "key": "16463 SE 89th Ter, Summerfield, FL",
+   "name": "Florence 2 — 16463 SE 89th Ter",
+   "builder": "Infinity Homes Developments",
+   "address": "16463 SE 89th Ter, Summerfield, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "No drawings in email",
+     "group": "master",
+     "status": "Spec sheets only",
+     "note": "The email carried appliance and Rheem water-heater spec sheets only — no drawings attached."
+    }
+   ]
+  },
+  {
+   "id": "exj-17385",
+   "key": "17385 SW 25th Cir, Ocala, FL",
+   "name": "17385 SW 25th Cir",
+   "builder": "EXJ Root",
+   "address": "17385 SW 25th Cir, Ocala, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": 2325,
+    "underRoofSf": 3076,
+    "tonnage": "3.5 ton",
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Master Plan Set · Florence 1",
+     "group": "master",
+     "status": "On file",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/17385-master-drawing.pdf",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/exj-17385/plan-set-architectural.pdf",
+       "pages": 9,
+       "sheets": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A9"
+       ]
+      }
+     ],
+     "note": "This set is architectural sheets only (A1–A9) — the electrical sheets are the Wiring Drawings below."
+    },
+    {
+     "name": "Wiring Drawings",
+     "group": "electrical",
+     "rev": "D6",
+     "status": "Current",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/17385-wiring-drawings-d6.pdf"
+    },
+    {
+     "name": "Load Calc · Manual J",
+     "group": "hvac",
+     "status": "On file — 3.5 ton / 41,000 Btuh",
+     "url": "files/exj-17385/load-calc.pdf"
+    },
+    {
+     "name": "Duct Layout · A/C-1",
+     "group": "hvac",
+     "status": "On file — 3.5 ton, 14.5 SEER2 HP",
+     "url": "files/exj-17385/duct-layout.pdf"
+    },
+    {
+     "name": "Energy Calc · 17385",
+     "group": "hvac",
+     "status": "On file",
+     "url": "files/exj-17385/energy-calc.pdf"
+    }
+   ]
+  },
+  {
+   "id": "circles-of-care",
+   "key": "Circles of Care Residential Unit",
+   "name": "Circles of Care Residential Unit",
+   "builder": "Landry/French Construction",
+   "address": null,
+   "byModel": true,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Landscape Plans",
+     "group": "master",
+     "status": "Platform link only",
+     "note": "The Landscape Plans sit behind a BuildingConnected link — no attachment in email, and no property address is stated."
+    }
+   ]
+  },
+  {
+   "id": "florence-1-model",
+   "key": "Florence 1 — Model",
+   "name": "Florence 1 — Model",
+   "builder": "EXJ Root",
+   "address": null,
+   "byModel": true,
+   "details": {
+    "livingSf": 2325,
+    "underRoofSf": 3076,
+    "tonnage": "3.5 ton",
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Energy Calc · Florence 1 (all Florence houses)",
+     "group": "hvac",
+     "status": "On file — covers every Florence 1 house",
+     "url": "files/models/florence-1/energy-calc.pdf"
+    }
+   ]
+  },
+  {
+   "id": "johnson",
+   "key": "Johnson Residence",
+   "name": "Johnson Residence",
+   "builder": "LCI Built",
+   "address": null,
+   "byModel": true,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Approved Documents",
+     "group": "master",
+     "status": "Download pending",
+     "note": "3 approved-document PDFs in office email. Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry. The address will be read off the title blocks once the sets are pulled."
+    }
+   ]
+  },
+  {
+   "id": "magic-pool",
+   "key": "Magic Construction — Pool Plans",
+   "name": "Magic Construction — Pool Plans",
+   "builder": "Magic Construction Group",
+   "address": null,
+   "byModel": true,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Pool Equipment Connection Plans",
+     "group": "electrical",
+     "status": "Download pending",
+     "note": "9 per-topic PDFs on one email from Petar Maric (2026-09-23), about 5.6 MB total. Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry. No property address is stated in the email."
+    }
+   ]
+  },
+  {
+   "id": "oak-trace",
+   "key": "Oak Trace Development",
+   "name": "Oak Trace Development",
+   "builder": "Straightline Construction",
+   "address": null,
+   "byModel": true,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Plan Set · 4-Unit Building (BW-10150)",
+     "group": "master",
+     "status": "Download pending",
+     "note": "Signed set (3.9 MB) attached by Dale Parish on 2026-11-04. Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry."
+    },
+    {
+     "name": "Plan Set · 5-Unit Building (BW-10150)",
+     "group": "master",
+     "status": "Download pending",
+     "note": "Signed set (4.1 MB) attached by Dale Parish on 2026-11-04. Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry."
+    }
+   ]
+  },
+  {
+   "id": "shores-2857",
+   "key": "Shores — SPEC 2857",
+   "name": "Shores — SPEC 2857",
+   "builder": "Chris Milton · Titan Home Designs",
+   "address": null,
+   "byModel": true,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Truss Uplift Sheet",
+     "group": "master",
+     "status": "On file",
+     "note": "4-page structural sheet — the one Shores sheet small enough to pull from email on 2026-11-20.",
+     "url": "files/shores-spec-2857/truss-uplift.pdf"
+    },
+    {
+     "name": "SPEC 2857 Sheet Set",
+     "group": "master",
+     "status": "Download pending",
+     "note": "6 more per-sheet PDFs sit in office email. Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry."
+    }
+   ]
+  },
+  {
+   "id": "si-homes-4160",
+   "key": "SI Homes Plan 4160",
+   "name": "SI Homes Plan 4160",
+   "builder": "SI Homes",
+   "address": null,
+   "byModel": true,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Master Plan 4160 · 4-Plex",
+     "group": "master",
+     "status": "Download pending",
+     "note": "MASTER PLAN 4160 (1.0 MB), sent by Ervin Tupa on 2026-10-13. Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry."
+    },
+    {
+     "name": "Electrical Riser Diagrams",
+     "group": "electrical",
+     "status": "Download pending",
+     "note": "Left + right riser PDFs (about 1.3 MB each), sent 2026-10-13. Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry."
+    },
+    {
+     "name": "Mechanical Riser Diagrams",
+     "group": "hvac",
+     "status": "Download pending",
+     "note": "Left + right riser PDFs (about 1.5 MB each), sent 2026-10-13. Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry."
+    }
+   ]
+  },
+  {
+   "id": "strada-melbourne",
+   "key": "Strada — Melbourne Roughs",
+   "name": "Strada — Melbourne Roughs",
+   "builder": "Strada Services",
+   "address": null,
+   "byModel": true,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Plans & Circuitry — Upcoming Roughs",
+     "group": "electrical",
+     "status": "Download pending",
+     "note": "Scanned set (4.3 MB) from Jason Perhealth, 2026-11-04. Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry. Most Strada job packs are warehouse pickups."
+    }
+   ]
+  },
+  {
+   "id": "tee-box",
+   "key": "TEE BOX Orlando",
+   "name": "TEE BOX Orlando",
+   "builder": "Liberty D",
+   "address": null,
+   "byModel": true,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Plans — Dropbox folder",
+     "group": "master",
+     "status": "Dropbox link in email",
+     "note": "Plans were shared by a Dropbox folder link in John Gigliotti's 2026-10-21 email — not pulled into the app."
+    }
+   ]
+  },
+  {
+   "id": "tooles-ace",
+   "key": "Toole's Ace Hardware — Minneola",
+   "name": "Toole's Ace Hardware — Minneola",
+   "builder": "GSB Construction",
+   "address": null,
+   "byModel": true,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "No plans in email",
+     "group": "master",
+     "status": "Drive folder link in email",
+     "note": "Full plans live in the Google Drive folder linked from the Addendum #3 email — not pulled. The addendum PDF itself is a bid document, not plans."
+    }
+   ]
+  },
+  {
+   "id": "torres-adu",
+   "key": "Torres ADU",
+   "name": "Torres ADU",
+   "builder": "NOK Construction",
+   "address": null,
+   "byModel": true,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Electrical Permit Plans",
+     "group": "electrical",
+     "status": "Download pending",
+     "note": "Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry."
+    },
+    {
+     "name": "HVAC Permit Plans",
+     "group": "hvac",
+     "status": "Download pending",
+     "note": "Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry."
     }
    ]
   }
