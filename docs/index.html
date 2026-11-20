@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Drawings &amp; Prints — Sharma Electric &amp; HVAC</title>
+<link rel="icon" href="logo.png">
+<link rel="stylesheet" href="styles.css?v=20261120-1">
+</head>
+<body>
+<header class="topbar">
+  <img class="logo" src="logo.png" alt="Sharma Electric &amp; HVAC">
+  <div class="titleblock">
+    <h1>Drawings &amp; Prints</h1>
+    <p class="sub">Every plan set &amp; Sharma drawing set, filed by job</p>
+  </div>
+  <div class="topactions">
+    <button id="refreshBtn" class="iconbtn" aria-label="Refresh" title="Refresh">⟳</button>
+    <button id="themeBtn" class="iconbtn" aria-label="Appearance" title="Appearance">◐</button>
+  </div>
+</header>
+
+<nav class="tabbar" id="tabBar">
+  <button class="tab" data-tab="elec">Electrical</button>
+  <button class="tab" data-tab="hvac">HVAC</button>
+  <button class="tab on" data-tab="master">Master Plans</button>
+</nav>
+
+<section class="stats" id="stats"></section>
+
+<section class="controls">
+  <input id="search" type="search" placeholder="Search job, address, or builder…" autocomplete="off">
+  <div class="chips" id="builderChips"></div>
+</section>
+
+<main id="jobList" class="joblist"></main>
+<p id="emptyMsg" class="empty" hidden>No jobs match that search.</p>
+
+<section id="jobView" class="jobview" hidden>
+  <button id="backBtn" class="backbtn">‹ All jobs</button>
+  <div id="jobDetail"></div>
+</section>
+
+<div id="sheetViewer" class="viewer" hidden>
+  <div class="viewerbar">
+    <span id="sheetTitle"></span>
+    <span id="sheetCount"></span>
+    <button id="sheetClose" class="iconbtn" aria-label="Close">✕</button>
+  </div>
+  <img id="sheetImg" alt="Plan sheet">
+  <div class="viewerNav">
+    <button id="sheetPrev" class="navbtn">‹ Prev</button>
+    <button id="sheetNext" class="navbtn">Next ›</button>
+  </div>
+</div>
+
+<footer class="foot">Sharma Electric &amp; HVAC · EC13013924 · CAC1823596 · <span id="updatedAt"></span></footer>
+
+<script src="app.js?v=20261120-1"></script>
+</body>
+</html>
