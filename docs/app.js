@@ -44,6 +44,8 @@ async function loadData(spin) {
   if (spin) setTimeout(() => $("#refreshBtn").classList.remove("spin"), 750);
   renderList();
   if (currentJob) renderDetail(currentJob, false);
+  const dm = (location.hash || "").match(/^#\/job\/(.+)$/);
+  if (dm && !currentJob) openJob(decodeURIComponent(dm[1]));
 }
 
 /* ---------------- list ---------------- */
@@ -206,6 +208,7 @@ function openJob(id) {
   const j = DATA.jobs.find((x) => x.id === id);
   if (!j) return;
   currentJob = j;
+  try { history.replaceState(null, "", "#/job/" + encodeURIComponent(id)); } catch (e) {}
   tabState[tab] = tabState[tab] || {};
   tabState[tab].scroll = $("#listView").scrollTop;
   renderDetail(j, true);
