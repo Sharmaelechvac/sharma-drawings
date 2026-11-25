@@ -177,9 +177,9 @@
     {
      "name": "Wiring Drawings",
      "group": "electrical",
-     "rev": "D6",
+     "rev": "D10.1",
      "status": "Current",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/212-wiring-drawings-d6.pdf"
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/212-wiring-drawings-d10-1.pdf"
     }
    ],
    "thumb": "thumbs/exj-212.jpg"
@@ -250,9 +250,9 @@
     {
      "name": "Wiring Drawings",
      "group": "electrical",
-     "rev": "D6",
+     "rev": "D10.1",
      "status": "Current",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/601-wiring-drawings-d6.pdf"
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/601-wiring-drawings-d10-1.pdf"
     }
    ],
    "thumb": "thumbs/exj-601.jpg"
@@ -486,30 +486,29 @@
    },
    "sets": [
     {
-     "name": "Plan Sheets · NONA 1672 (sheet view)",
+     "name": "Wiring Drawings · NONA 1672 v13y (sheet view)",
      "group": "master",
-     "rev": "NONA 1672",
+     "rev": "v13y",
      "status": "On file",
      "images": [
-      "files/eunice/3131/sheet-01.webp",
-      "files/eunice/3131/sheet-02.webp",
-      "files/eunice/3131/sheet-03.webp",
-      "files/eunice/3131/sheet-04.webp",
-      "files/eunice/3131/sheet-05.webp",
-      "files/eunice/3131/sheet-06.webp",
-      "files/eunice/3131/sheet-07.webp",
-      "files/eunice/3131/sheet-08.webp",
-      "files/eunice/3131/sheet-09.webp",
-      "files/eunice/3131/sheet-10.webp",
-      "files/eunice/3131/sheet-11.webp",
-      "files/eunice/3131/sheet-12.webp",
-      "files/eunice/3131/sheet-13.webp",
-      "files/eunice/3131/sheet-14.webp",
-      "files/eunice/3131/sheet-15.webp",
-      "files/eunice/3131/sheet-16.webp",
-      "files/eunice/3131/sheet-17.webp",
-      "files/eunice/3131/sheet-18.webp",
-      "files/eunice/3131/sheet-19.webp"
+      "files/eunice/3131-v13y/sheet-01.webp",
+      "files/eunice/3131-v13y/sheet-02.webp",
+      "files/eunice/3131-v13y/sheet-03.webp",
+      "files/eunice/3131-v13y/sheet-04.webp",
+      "files/eunice/3131-v13y/sheet-05.webp",
+      "files/eunice/3131-v13y/sheet-06.webp",
+      "files/eunice/3131-v13y/sheet-07.webp",
+      "files/eunice/3131-v13y/sheet-08.webp",
+      "files/eunice/3131-v13y/sheet-09.webp",
+      "files/eunice/3131-v13y/sheet-10.webp",
+      "files/eunice/3131-v13y/sheet-11.webp",
+      "files/eunice/3131-v13y/sheet-12.webp",
+      "files/eunice/3131-v13y/sheet-13.webp",
+      "files/eunice/3131-v13y/sheet-14.webp",
+      "files/eunice/3131-v13y/sheet-15.webp",
+      "files/eunice/3131-v13y/sheet-16.webp",
+      "files/eunice/3131-v13y/sheet-17.webp",
+      "files/eunice/3131-v13y/sheet-18.webp"
      ]
     },
     {
@@ -584,30 +583,29 @@
    },
    "sets": [
     {
-     "name": "Plan Sheets · NONA 1672 (sheet view)",
+     "name": "Wiring Drawings · NONA 1672 v13y (sheet view)",
      "group": "master",
-     "rev": "NONA 1672",
+     "rev": "v13y",
      "status": "On file",
      "images": [
-      "files/eunice/3262/sheet-01.webp",
-      "files/eunice/3262/sheet-02.webp",
-      "files/eunice/3262/sheet-03.webp",
-      "files/eunice/3262/sheet-04.webp",
-      "files/eunice/3262/sheet-05.webp",
-      "files/eunice/3262/sheet-06.webp",
-      "files/eunice/3262/sheet-07.webp",
-      "files/eunice/3262/sheet-08.webp",
-      "files/eunice/3262/sheet-09.webp",
-      "files/eunice/3262/sheet-10.webp",
-      "files/eunice/3262/sheet-11.webp",
-      "files/eunice/3262/sheet-12.webp",
-      "files/eunice/3262/sheet-13.webp",
-      "files/eunice/3262/sheet-14.webp",
-      "files/eunice/3262/sheet-15.webp",
-      "files/eunice/3262/sheet-16.webp",
-      "files/eunice/3262/sheet-17.webp",
-      "files/eunice/3262/sheet-18.webp",
-      "files/eunice/3262/sheet-19.webp"
+      "files/eunice/3262-v13y/sheet-01.webp",
+      "files/eunice/3262-v13y/sheet-02.webp",
+      "files/eunice/3262-v13y/sheet-03.webp",
+      "files/eunice/3262-v13y/sheet-04.webp",
+      "files/eunice/3262-v13y/sheet-05.webp",
+      "files/eunice/3262-v13y/sheet-06.webp",
+      "files/eunice/3262-v13y/sheet-07.webp",
+      "files/eunice/3262-v13y/sheet-08.webp",
+      "files/eunice/3262-v13y/sheet-09.webp",
+      "files/eunice/3262-v13y/sheet-10.webp",
+      "files/eunice/3262-v13y/sheet-11.webp",
+      "files/eunice/3262-v13y/sheet-12.webp",
+      "files/eunice/3262-v13y/sheet-13.webp",
+      "files/eunice/3262-v13y/sheet-14.webp",
+      "files/eunice/3262-v13y/sheet-15.webp",
+      "files/eunice/3262-v13y/sheet-16.webp",
+      "files/eunice/3262-v13y/sheet-17.webp",
+      "files/eunice/3262-v13y/sheet-18.webp"
      ]
     },
     {
@@ -682,30 +680,29 @@
    },
    "sets": [
     {
-     "name": "Plan Sheets · NONA 1672 (sheet view)",
+     "name": "Wiring Drawings · NONA 1672 v13y (sheet view)",
      "group": "master",
-     "rev": "NONA 1672",
+     "rev": "v13y",
      "status": "On file",
      "images": [
-      "files/eunice/3274/sheet-01.webp",
-      "files/eunice/3274/sheet-02.webp",
-      "files/eunice/3274/sheet-03.webp",
-      "files/eunice/3274/sheet-04.webp",
-      "files/eunice/3274/sheet-05.webp",
-      "files/eunice/3274/sheet-06.webp",
-      "files/eunice/3274/sheet-07.webp",
-      "files/eunice/3274/sheet-08.webp",
-      "files/eunice/3274/sheet-09.webp",
-      "files/eunice/3274/sheet-10.webp",
-      "files/eunice/3274/sheet-11.webp",
-      "files/eunice/3274/sheet-12.webp",
-      "files/eunice/3274/sheet-13.webp",
-      "files/eunice/3274/sheet-14.webp",
-      "files/eunice/3274/sheet-15.webp",
-      "files/eunice/3274/sheet-16.webp",
-      "files/eunice/3274/sheet-17.webp",
-      "files/eunice/3274/sheet-18.webp",
-      "files/eunice/3274/sheet-19.webp"
+      "files/eunice/3274-v13y/sheet-01.webp",
+      "files/eunice/3274-v13y/sheet-02.webp",
+      "files/eunice/3274-v13y/sheet-03.webp",
+      "files/eunice/3274-v13y/sheet-04.webp",
+      "files/eunice/3274-v13y/sheet-05.webp",
+      "files/eunice/3274-v13y/sheet-06.webp",
+      "files/eunice/3274-v13y/sheet-07.webp",
+      "files/eunice/3274-v13y/sheet-08.webp",
+      "files/eunice/3274-v13y/sheet-09.webp",
+      "files/eunice/3274-v13y/sheet-10.webp",
+      "files/eunice/3274-v13y/sheet-11.webp",
+      "files/eunice/3274-v13y/sheet-12.webp",
+      "files/eunice/3274-v13y/sheet-13.webp",
+      "files/eunice/3274-v13y/sheet-14.webp",
+      "files/eunice/3274-v13y/sheet-15.webp",
+      "files/eunice/3274-v13y/sheet-16.webp",
+      "files/eunice/3274-v13y/sheet-17.webp",
+      "files/eunice/3274-v13y/sheet-18.webp"
      ]
     },
     {
@@ -780,30 +777,29 @@
    },
    "sets": [
     {
-     "name": "Plan Sheets · NONA 1672 (sheet view)",
+     "name": "Wiring Drawings · NONA 1672 v13y (sheet view)",
      "group": "master",
-     "rev": "NONA 1672",
+     "rev": "v13y",
      "status": "On file",
      "images": [
-      "files/eunice/3286/sheet-01.webp",
-      "files/eunice/3286/sheet-02.webp",
-      "files/eunice/3286/sheet-03.webp",
-      "files/eunice/3286/sheet-04.webp",
-      "files/eunice/3286/sheet-05.webp",
-      "files/eunice/3286/sheet-06.webp",
-      "files/eunice/3286/sheet-07.webp",
-      "files/eunice/3286/sheet-08.webp",
-      "files/eunice/3286/sheet-09.webp",
-      "files/eunice/3286/sheet-10.webp",
-      "files/eunice/3286/sheet-11.webp",
-      "files/eunice/3286/sheet-12.webp",
-      "files/eunice/3286/sheet-13.webp",
-      "files/eunice/3286/sheet-14.webp",
-      "files/eunice/3286/sheet-15.webp",
-      "files/eunice/3286/sheet-16.webp",
-      "files/eunice/3286/sheet-17.webp",
-      "files/eunice/3286/sheet-18.webp",
-      "files/eunice/3286/sheet-19.webp"
+      "files/eunice/3286-v13y/sheet-01.webp",
+      "files/eunice/3286-v13y/sheet-02.webp",
+      "files/eunice/3286-v13y/sheet-03.webp",
+      "files/eunice/3286-v13y/sheet-04.webp",
+      "files/eunice/3286-v13y/sheet-05.webp",
+      "files/eunice/3286-v13y/sheet-06.webp",
+      "files/eunice/3286-v13y/sheet-07.webp",
+      "files/eunice/3286-v13y/sheet-08.webp",
+      "files/eunice/3286-v13y/sheet-09.webp",
+      "files/eunice/3286-v13y/sheet-10.webp",
+      "files/eunice/3286-v13y/sheet-11.webp",
+      "files/eunice/3286-v13y/sheet-12.webp",
+      "files/eunice/3286-v13y/sheet-13.webp",
+      "files/eunice/3286-v13y/sheet-14.webp",
+      "files/eunice/3286-v13y/sheet-15.webp",
+      "files/eunice/3286-v13y/sheet-16.webp",
+      "files/eunice/3286-v13y/sheet-17.webp",
+      "files/eunice/3286-v13y/sheet-18.webp"
      ]
     },
     {
@@ -1075,9 +1071,9 @@
     {
      "name": "Wiring Drawings",
      "group": "electrical",
-     "rev": "D6",
+     "rev": "D10.1",
      "status": "Current",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/14065-wiring-drawings-d6.pdf"
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/14065-wiring-drawings-d10-1.pdf"
     },
     {
      "name": "Engineered Electrical Set · Milano",
@@ -1229,9 +1225,9 @@
     {
      "name": "Wiring Drawings",
      "group": "electrical",
-     "rev": "D6",
+     "rev": "D10.1",
      "status": "Current",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/16321-wiring-drawings-d6.pdf"
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/16321-wiring-drawings-d10-1.pdf"
     }
    ],
    "thumb": "thumbs/exj-16321.jpg"
@@ -1302,9 +1298,9 @@
     {
      "name": "Wiring Drawings",
      "group": "electrical",
-     "rev": "D6",
+     "rev": "D10.1",
      "status": "Current",
-     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/17385-wiring-drawings-d6.pdf"
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/17385-wiring-drawings-d10-1.pdf"
     },
     {
      "name": "Load Calc · Manual J",
