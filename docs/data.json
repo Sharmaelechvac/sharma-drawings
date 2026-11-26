@@ -107,6 +107,15 @@
      "note": "Shared by Google Drive link in Chris's 2026-10-21 email.",
      "url": "https://drive.google.com/file/d/1VkDq0J0Tj3l-cm-nzwobZdX-HsgdLHxg/view",
      "statusLabel": "Google Drive link"
+    },
+    {
+     "name": "Master Bath 4-Gang Switch Layout",
+     "group": "electrical",
+     "status": "On file",
+     "images": [
+      "files/glaze/master-bath-4gang-switch-layout.png"
+     ],
+     "note": "Switch layout diagram from the NOK SHARMATRACK page for Glaze."
     }
    ]
   },
@@ -180,6 +189,19 @@
      "rev": "D10.1",
      "status": "Current",
      "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/212-wiring-drawings-d10-1.pdf"
+    },
+    {
+     "name": "Engineered Plan Set · Florence 1",
+     "group": "master",
+     "status": "On file",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/212-engineered-plans-florence-1.pdf"
+    },
+    {
+     "name": "Wiring Drawings",
+     "group": "electrical",
+     "rev": "D6",
+     "status": "Superseded by D10.1",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/212-wiring-drawings-d6.pdf"
     }
    ],
    "thumb": "thumbs/exj-212.jpg"
@@ -253,6 +275,13 @@
      "rev": "D10.1",
      "status": "Current",
      "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/601-wiring-drawings-d10-1.pdf"
+    },
+    {
+     "name": "Wiring Drawings",
+     "group": "electrical",
+     "rev": "D6",
+     "status": "Superseded by D10.1",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/601-wiring-drawings-d6.pdf"
     }
    ],
    "thumb": "thumbs/exj-601.jpg"
@@ -563,6 +592,52 @@
        "sheets": []
       }
      ]
+    },
+    {
+     "name": "Wiring Drawings · NONA 1672 (sheet view)",
+     "group": "master",
+     "status": "On file",
+     "images": [
+      "files/eunice/3131/sheet-01.webp",
+      "files/eunice/3131/sheet-02.webp",
+      "files/eunice/3131/sheet-03.webp",
+      "files/eunice/3131/sheet-04.webp",
+      "files/eunice/3131/sheet-05.webp",
+      "files/eunice/3131/sheet-06.webp",
+      "files/eunice/3131/sheet-07.webp",
+      "files/eunice/3131/sheet-08.webp",
+      "files/eunice/3131/sheet-09.webp",
+      "files/eunice/3131/sheet-10.webp",
+      "files/eunice/3131/sheet-11.webp",
+      "files/eunice/3131/sheet-12.webp",
+      "files/eunice/3131/sheet-13.webp",
+      "files/eunice/3131/sheet-14.webp",
+      "files/eunice/3131/sheet-15.webp",
+      "files/eunice/3131/sheet-16.webp",
+      "files/eunice/3131/sheet-17.webp",
+      "files/eunice/3131/sheet-18.webp",
+      "files/eunice/3131/sheet-19.webp"
+     ],
+     "note": "Sharma's original wiring set for the house (E-0 dated 2026-08-19) — superseded by the v13y sheet view."
+    },
+    {
+     "name": "Panel Schedule",
+     "group": "electrical",
+     "status": "On file",
+     "url": "files/eunice/3131/panel-schedule.pdf"
+    },
+    {
+     "name": "Panel Schedule · v13y",
+     "group": "electrical",
+     "rev": "v13y",
+     "status": "On file",
+     "url": "files/eunice/3131/panel-schedule-v13y.pdf"
+    },
+    {
+     "name": "Meter Schedule",
+     "group": "electrical",
+     "status": "On file",
+     "url": "files/eunice/3131/meter-schedule.pdf"
     }
    ],
    "thumb": "thumbs/eunice-3131.jpg"
@@ -660,6 +735,52 @@
        "sheets": []
       }
      ]
+    },
+    {
+     "name": "Wiring Drawings · NONA 1672 (sheet view)",
+     "group": "master",
+     "status": "On file",
+     "images": [
+      "files/eunice/3262/sheet-01.webp",
+      "files/eunice/3262/sheet-02.webp",
+      "files/eunice/3262/sheet-03.webp",
+      "files/eunice/3262/sheet-04.webp",
+      "files/eunice/3262/sheet-05.webp",
+      "files/eunice/3262/sheet-06.webp",
+      "files/eunice/3262/sheet-07.webp",
+      "files/eunice/3262/sheet-08.webp",
+      "files/eunice/3262/sheet-09.webp",
+      "files/eunice/3262/sheet-10.webp",
+      "files/eunice/3262/sheet-11.webp",
+      "files/eunice/3262/sheet-12.webp",
+      "files/eunice/3262/sheet-13.webp",
+      "files/eunice/3262/sheet-14.webp",
+      "files/eunice/3262/sheet-15.webp",
+      "files/eunice/3262/sheet-16.webp",
+      "files/eunice/3262/sheet-17.webp",
+      "files/eunice/3262/sheet-18.webp",
+      "files/eunice/3262/sheet-19.webp"
+     ],
+     "note": "Sharma's original wiring set for the house (E-0 dated 2026-08-19) — superseded by the v13y sheet view."
+    },
+    {
+     "name": "Panel Schedule",
+     "group": "electrical",
+     "status": "On file",
+     "url": "files/eunice/3262/panel-schedule.pdf"
+    },
+    {
+     "name": "Panel Schedule · v13y",
+     "group": "electrical",
+     "rev": "v13y",
+     "status": "On file",
+     "url": "files/eunice/3262/panel-schedule-v13y.pdf"
+    },
+    {
+     "name": "Meter Schedule",
+     "group": "electrical",
+     "status": "On file",
+     "url": "files/eunice/3262/meter-schedule.pdf"
     }
    ],
    "thumb": "thumbs/eunice-3262.jpg"
@@ -757,6 +878,52 @@
        "sheets": []
       }
      ]
+    },
+    {
+     "name": "Wiring Drawings · NONA 1672 (sheet view)",
+     "group": "master",
+     "status": "On file",
+     "images": [
+      "files/eunice/3274/sheet-01.webp",
+      "files/eunice/3274/sheet-02.webp",
+      "files/eunice/3274/sheet-03.webp",
+      "files/eunice/3274/sheet-04.webp",
+      "files/eunice/3274/sheet-05.webp",
+      "files/eunice/3274/sheet-06.webp",
+      "files/eunice/3274/sheet-07.webp",
+      "files/eunice/3274/sheet-08.webp",
+      "files/eunice/3274/sheet-09.webp",
+      "files/eunice/3274/sheet-10.webp",
+      "files/eunice/3274/sheet-11.webp",
+      "files/eunice/3274/sheet-12.webp",
+      "files/eunice/3274/sheet-13.webp",
+      "files/eunice/3274/sheet-14.webp",
+      "files/eunice/3274/sheet-15.webp",
+      "files/eunice/3274/sheet-16.webp",
+      "files/eunice/3274/sheet-17.webp",
+      "files/eunice/3274/sheet-18.webp",
+      "files/eunice/3274/sheet-19.webp"
+     ],
+     "note": "Sharma's original wiring set for the house (E-0 dated 2026-08-19) — superseded by the v13y sheet view."
+    },
+    {
+     "name": "Panel Schedule",
+     "group": "electrical",
+     "status": "On file",
+     "url": "files/eunice/3274/panel-schedule.pdf"
+    },
+    {
+     "name": "Panel Schedule · v13y",
+     "group": "electrical",
+     "rev": "v13y",
+     "status": "On file",
+     "url": "files/eunice/3274/panel-schedule-v13y.pdf"
+    },
+    {
+     "name": "Meter Schedule",
+     "group": "electrical",
+     "status": "On file",
+     "url": "files/eunice/3274/meter-schedule.pdf"
     }
    ],
    "thumb": "thumbs/eunice-3274.jpg"
@@ -854,6 +1021,52 @@
        "sheets": []
       }
      ]
+    },
+    {
+     "name": "Wiring Drawings · NONA 1672 (sheet view)",
+     "group": "master",
+     "status": "On file",
+     "images": [
+      "files/eunice/3286/sheet-01.webp",
+      "files/eunice/3286/sheet-02.webp",
+      "files/eunice/3286/sheet-03.webp",
+      "files/eunice/3286/sheet-04.webp",
+      "files/eunice/3286/sheet-05.webp",
+      "files/eunice/3286/sheet-06.webp",
+      "files/eunice/3286/sheet-07.webp",
+      "files/eunice/3286/sheet-08.webp",
+      "files/eunice/3286/sheet-09.webp",
+      "files/eunice/3286/sheet-10.webp",
+      "files/eunice/3286/sheet-11.webp",
+      "files/eunice/3286/sheet-12.webp",
+      "files/eunice/3286/sheet-13.webp",
+      "files/eunice/3286/sheet-14.webp",
+      "files/eunice/3286/sheet-15.webp",
+      "files/eunice/3286/sheet-16.webp",
+      "files/eunice/3286/sheet-17.webp",
+      "files/eunice/3286/sheet-18.webp",
+      "files/eunice/3286/sheet-19.webp"
+     ],
+     "note": "Sharma's original wiring set for the house (E-0 dated 2026-08-19) — superseded by the v13y sheet view."
+    },
+    {
+     "name": "Panel Schedule",
+     "group": "electrical",
+     "status": "On file",
+     "url": "files/eunice/3286/panel-schedule.pdf"
+    },
+    {
+     "name": "Panel Schedule · v13y",
+     "group": "electrical",
+     "rev": "v13y",
+     "status": "On file",
+     "url": "files/eunice/3286/panel-schedule-v13y.pdf"
+    },
+    {
+     "name": "Meter Schedule",
+     "group": "electrical",
+     "status": "On file",
+     "url": "files/eunice/3286/meter-schedule.pdf"
     }
    ],
    "thumb": "thumbs/eunice-3286.jpg"
@@ -1081,6 +1294,86 @@
      "status": "On file — v1",
      "url": "files/exj-14065/engineered-electrical.pdf",
      "note": "Sharma's engineered electrical set for the Milano (200A service; crew reference, not for construction). v1 (E-0–E-2) filed here; v2–v6 sit in the office folder — v6 is the latest (2026-11-08)."
+    },
+    {
+     "name": "Wiring Drawings · D10.1 (sheet view)",
+     "group": "electrical",
+     "rev": "D10.1",
+     "status": "On file",
+     "images": [
+      "files/exj-14065/d10-1-sheets/sheet-01.webp",
+      "files/exj-14065/d10-1-sheets/sheet-02.webp",
+      "files/exj-14065/d10-1-sheets/sheet-03.webp",
+      "files/exj-14065/d10-1-sheets/sheet-04.webp",
+      "files/exj-14065/d10-1-sheets/sheet-05.webp",
+      "files/exj-14065/d10-1-sheets/sheet-06.webp",
+      "files/exj-14065/d10-1-sheets/sheet-07.webp",
+      "files/exj-14065/d10-1-sheets/sheet-08.webp",
+      "files/exj-14065/d10-1-sheets/sheet-09.webp",
+      "files/exj-14065/d10-1-sheets/sheet-10.webp",
+      "files/exj-14065/d10-1-sheets/sheet-11.webp",
+      "files/exj-14065/d10-1-sheets/sheet-12.webp",
+      "files/exj-14065/d10-1-sheets/sheet-13.webp",
+      "files/exj-14065/d10-1-sheets/sheet-14.webp",
+      "files/exj-14065/d10-1-sheets/sheet-15.webp",
+      "files/exj-14065/d10-1-sheets/sheet-16.webp",
+      "files/exj-14065/d10-1-sheets/sheet-17.webp",
+      "files/exj-14065/d10-1-sheets/sheet-18.webp",
+      "files/exj-14065/d10-1-sheets/sheet-19.webp",
+      "files/exj-14065/d10-1-sheets/sheet-20.webp",
+      "files/exj-14065/d10-1-sheets/sheet-21.webp",
+      "files/exj-14065/d10-1-sheets/sheet-22.webp",
+      "files/exj-14065/d10-1-sheets/sheet-23.webp"
+     ],
+     "note": "Sheet-by-sheet view of the same D10.1 wiring set filed above as a PDF."
+    },
+    {
+     "name": "Electrical Reference Set · Milano (sheet view)",
+     "group": "electrical",
+     "status": "Draft — in review",
+     "images": [
+      "files/exj-14065/reference-sheets/sheet-01.webp",
+      "files/exj-14065/reference-sheets/sheet-02.webp",
+      "files/exj-14065/reference-sheets/sheet-03.webp",
+      "files/exj-14065/reference-sheets/sheet-04.webp",
+      "files/exj-14065/reference-sheets/sheet-05.webp",
+      "files/exj-14065/reference-sheets/sheet-06.webp",
+      "files/exj-14065/reference-sheets/sheet-07.webp",
+      "files/exj-14065/reference-sheets/sheet-08.webp",
+      "files/exj-14065/reference-sheets/sheet-09.webp",
+      "files/exj-14065/reference-sheets/sheet-10.webp",
+      "files/exj-14065/reference-sheets/sheet-11.webp",
+      "files/exj-14065/reference-sheets/sheet-12.webp",
+      "files/exj-14065/reference-sheets/sheet-13.webp",
+      "files/exj-14065/reference-sheets/sheet-14.webp",
+      "files/exj-14065/reference-sheets/sheet-15.webp",
+      "files/exj-14065/reference-sheets/sheet-16.webp",
+      "files/exj-14065/reference-sheets/sheet-17.webp",
+      "files/exj-14065/reference-sheets/sheet-18.webp",
+      "files/exj-14065/reference-sheets/sheet-19.webp",
+      "files/exj-14065/reference-sheets/sheet-20.webp",
+      "files/exj-14065/reference-sheets/sheet-21.webp",
+      "files/exj-14065/reference-sheets/sheet-22.webp",
+      "files/exj-14065/reference-sheets/sheet-23.webp",
+      "files/exj-14065/reference-sheets/sheet-24.webp",
+      "files/exj-14065/reference-sheets/sheet-25.webp",
+      "files/exj-14065/reference-sheets/sheet-26.webp",
+      "files/exj-14065/reference-sheets/sheet-27.webp",
+      "files/exj-14065/reference-sheets/sheet-28.webp",
+      "files/exj-14065/reference-sheets/sheet-29.webp",
+      "files/exj-14065/reference-sheets/sheet-30.webp",
+      "files/exj-14065/reference-sheets/sheet-31.webp",
+      "files/exj-14065/reference-sheets/sheet-32.webp",
+      "files/exj-14065/reference-sheets/sheet-33.webp"
+     ],
+     "note": "Sharma's electrical crawl-reference set for the Milano, sourced from approved plan set A2–A7. Marked on its cover: draft in review — not for building department submission."
+    },
+    {
+     "name": "Wiring Drawings",
+     "group": "electrical",
+     "rev": "D6",
+     "status": "Superseded by D10.1",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/14065-wiring-drawings-d6.pdf"
     }
    ],
    "thumb": "thumbs/exj-14065.jpg"
@@ -1228,6 +1521,13 @@
      "rev": "D10.1",
      "status": "Current",
      "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/16321-wiring-drawings-d10-1.pdf"
+    },
+    {
+     "name": "Wiring Drawings",
+     "group": "electrical",
+     "rev": "D6",
+     "status": "Superseded by D10.1",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/16321-wiring-drawings-d6.pdf"
     }
    ],
    "thumb": "thumbs/exj-16321.jpg"
@@ -1319,6 +1619,13 @@
      "group": "hvac",
      "status": "On file",
      "url": "files/exj-17385/energy-calc.pdf"
+    },
+    {
+     "name": "Wiring Drawings",
+     "group": "electrical",
+     "rev": "D6",
+     "status": "Superseded by D10.1",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/17385-wiring-drawings-d6.pdf"
     }
    ],
    "thumb": "thumbs/exj-17385.jpg"
@@ -1366,6 +1673,13 @@
      "group": "hvac",
      "status": "On file — covers every Florence 1 house",
      "url": "files/models/florence-1/energy-calc.pdf"
+    },
+    {
+     "name": "Combined Engineered Set · Florence 1 (unsealed)",
+     "group": "master",
+     "status": "On file",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/florence-1-combined-engineered-unsealed-2026-09-17.pdf",
+     "note": "Shared Florence 1 engineered set (unsealed, 2026-09-17) — linked from this job's SHARMATRACK page."
     }
    ],
    "thumb": "thumbs/florence-1-model.jpg"
@@ -1606,6 +1920,569 @@
      "group": "hvac",
      "status": "Download pending",
      "note": "Attached in office email — the mail tool blocked the download on 2026-11-20 (verification protection); the exact reference is on file to retry."
+    }
+   ]
+  },
+  {
+   "id": "elite-2532-palm",
+   "key": "2532 W Palm Dr, Tampa, FL",
+   "name": "2532 W Palm Dr",
+   "builder": "Elite Construction Services LLC",
+   "address": "2532 W Palm Dr, Tampa, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": 4490,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Approved Permit Set",
+     "group": "master",
+     "rev": "BLD-26-0526209",
+     "status": "Approved",
+     "url": "files/elite-2532-palm/plan-set.pdf",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/elite-2532-palm/plan-set-architectural.pdf",
+       "pages": 22,
+       "sheets": [
+        "A0.1",
+        "A1.0",
+        "A1.1",
+        "A2.0",
+        "A2.1",
+        "A2.2",
+        "A2.3",
+        "A2.4",
+        "A3.0",
+        "A3.1",
+        "A4.0",
+        "A4.1",
+        "A4.2",
+        "A4.3",
+        "A4.4",
+        "A4.5",
+        "A4.6",
+        "A4.7",
+        "A4.8",
+        "A6.0",
+        "A6.1"
+       ]
+      },
+      {
+       "discipline": "Structural",
+       "url": "files/elite-2532-palm/plan-set-structural.pdf",
+       "pages": 19,
+       "sheets": [
+        "S1.0",
+        "S1.1",
+        "S1.2",
+        "S1.3",
+        "S2.0",
+        "S2.1",
+        "S2.2",
+        "S2.3",
+        "S3.0",
+        "S3.1",
+        "S3.2",
+        "S3.3",
+        "S3.4",
+        "S3.5",
+        "S3.6",
+        "S3.7",
+        "S3.8",
+        "S3.9",
+        "S3.10"
+       ]
+      },
+      {
+       "discipline": "Civil",
+       "url": "files/elite-2532-palm/plan-set-civil.pdf",
+       "pages": 1,
+       "sheets": []
+      },
+      {
+       "discipline": "Electrical",
+       "url": "files/elite-2532-palm/plan-set-electrical.pdf",
+       "pages": 4,
+       "sheets": [
+        "E1.0",
+        "E1.1",
+        "E1.2",
+        "E1.3"
+       ]
+      }
+     ],
+     "note": "Split by the printed sheet numbers in the title blocks. The cover sheet (p.1) carries no sheet number and is filed first in the Architectural part; the boundary/topographic survey (p.41) is unnumbered and filed as the Civil part; S3.3 is bound last in the approved PDF (p.46) and is filed in sheet order in the Structural part."
+    }
+   ],
+   "thumb": "thumbs/elite-2532-palm.jpg"
+  },
+  {
+   "id": "elite-2528-palm",
+   "key": "2528 W Palm Dr, Tampa, FL",
+   "name": "2528 W Palm Dr",
+   "builder": "Elite Construction Services LLC",
+   "address": "2528 W Palm Dr, Tampa, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": 5684,
+    "underRoofSf": 7310,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Approved Permit Set",
+     "group": "master",
+     "rev": "BLD-26-0527185",
+     "status": "Approved",
+     "url": "files/elite-2528-palm/plan-set.pdf",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/elite-2528-palm/plan-set-architectural.pdf",
+       "pages": 14,
+       "sheets": [
+        "A0.0",
+        "A0.1",
+        "A0.4",
+        "A2.0",
+        "A3.0",
+        "A3.1",
+        "A3.2",
+        "A4.0",
+        "A5.0",
+        "A5.1",
+        "A6.0",
+        "A6.1",
+        "A7.0",
+        "A7.1"
+       ]
+      },
+      {
+       "discipline": "Electrical",
+       "url": "files/elite-2528-palm/plan-set-electrical.pdf",
+       "pages": 3,
+       "sheets": [
+        "A8.0",
+        "A8.1",
+        "A8.2"
+       ]
+      },
+      {
+       "discipline": "Civil",
+       "url": "files/elite-2528-palm/plan-set-civil.pdf",
+       "pages": 2,
+       "sheets": []
+      },
+      {
+       "discipline": "Structural",
+       "url": "files/elite-2528-palm/plan-set-structural.pdf",
+       "pages": 11,
+       "sheets": [
+        "S100",
+        "S200",
+        "S201",
+        "S300",
+        "S301",
+        "S302",
+        "S400",
+        "S401",
+        "S402",
+        "S403",
+        "S404"
+       ]
+      }
+     ],
+     "note": "Split by the printed sheet numbers in the title blocks. A8.0–A8.2 are the set's electrical plans (schematic — drawn on architectural sheets) and are filed as the Electrical part. The Landtec boundary survey (PDF pp.18 and 30 — survey pages 1 and 2 of 2) is unnumbered and filed as the Civil part."
+    }
+   ],
+   "thumb": "thumbs/elite-2528-palm.jpg"
+  },
+  {
+   "id": "ayr-belleview",
+   "key": "10845 U.S. 441, Belleview, FL 34420",
+   "name": "AYR Wellness — Belleview",
+   "builder": "Marco Contractors",
+   "address": "10845 U.S. 441, Belleview, FL 34420",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Original Bid Drawings — Combined Set",
+     "group": "master",
+     "status": "On file",
+     "url": "files/ayr-belleview/plan-set.pdf",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/ayr-belleview/plan-set-architectural.pdf",
+       "pages": 18,
+       "sheets": [
+        "AG01",
+        "AG02",
+        "AA01",
+        "AK01",
+        "AD01",
+        "AD02",
+        "A101",
+        "A102",
+        "A201",
+        "A202",
+        "A401",
+        "A402",
+        "A403",
+        "A404",
+        "A601",
+        "A602",
+        "A701",
+        "A702"
+       ]
+      },
+      {
+       "discipline": "Plumbing",
+       "url": "files/ayr-belleview/plan-set-plumbing.pdf",
+       "pages": 4,
+       "sheets": [
+        "PD01",
+        "P101",
+        "P201",
+        "P301"
+       ]
+      },
+      {
+       "discipline": "Mechanical",
+       "url": "files/ayr-belleview/plan-set-mechanical.pdf",
+       "pages": 3,
+       "sheets": [
+        "MD01",
+        "M101",
+        "M301"
+       ]
+      },
+      {
+       "discipline": "Electrical",
+       "url": "files/ayr-belleview/plan-set-electrical.pdf",
+       "pages": 5,
+       "sheets": [
+        "ED01",
+        "E101",
+        "E102",
+        "E201",
+        "E301"
+       ]
+      }
+     ],
+     "note": "Split by the set's own drawing index; combined-set page order verified against the individual sheet PDFs."
+    }
+   ],
+   "thumb": "thumbs/ayr-belleview.jpg"
+  },
+  {
+   "id": "ayr-orange-city",
+   "key": "Orange City, FL",
+   "name": "AYR Wellness — Orange City",
+   "builder": "Marco Contractors",
+   "address": "Orange City, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Original Bid Drawings — Combined Set",
+     "group": "master",
+     "status": "On file",
+     "url": "files/ayr-orange-city/plan-set.pdf",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/ayr-orange-city/plan-set-architectural.pdf",
+       "pages": 17,
+       "sheets": [
+        "AG01",
+        "AG02",
+        "AA01",
+        "AK01",
+        "AD01",
+        "AD02",
+        "A101",
+        "A102",
+        "A201",
+        "A202",
+        "A401",
+        "A402",
+        "A403",
+        "A601",
+        "A602",
+        "A701",
+        "A702"
+       ]
+      },
+      {
+       "discipline": "Plumbing",
+       "url": "files/ayr-orange-city/plan-set-plumbing.pdf",
+       "pages": 5,
+       "sheets": [
+        "PD01",
+        "P101",
+        "P102",
+        "P201",
+        "P301"
+       ]
+      },
+      {
+       "discipline": "Mechanical",
+       "url": "files/ayr-orange-city/plan-set-mechanical.pdf",
+       "pages": 4,
+       "sheets": [
+        "MD01",
+        "M101",
+        "M201",
+        "M301"
+       ]
+      },
+      {
+       "discipline": "Electrical",
+       "url": "files/ayr-orange-city/plan-set-electrical.pdf",
+       "pages": 5,
+       "sheets": [
+        "ED01",
+        "E101",
+        "E102",
+        "E201",
+        "E301"
+       ]
+      }
+     ],
+     "note": "Split by the set's own drawing index; combined-set page order verified against the individual sheet PDFs."
+    }
+   ],
+   "thumb": "thumbs/ayr-orange-city.jpg"
+  },
+  {
+   "id": "br-ross-105-orlando",
+   "key": "105 E Orlando St, Orlando, FL 32804",
+   "name": "105 E Orlando St",
+   "builder": "BR Ross Construction",
+   "address": "105 E Orlando St, Orlando, FL 32804",
+   "byModel": false,
+   "details": {
+    "livingSf": 2895,
+    "underRoofSf": 3554,
+    "tonnage": null,
+    "service": "200A",
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Pre-Package Set (Studio 58)",
+     "group": "master",
+     "rev": "R0",
+     "status": "On file",
+     "url": "files/br-ross-105-orlando/plan-set.pdf",
+     "parts": [
+      {
+       "discipline": "Architectural",
+       "url": "files/br-ross-105-orlando/plan-set-architectural.pdf",
+       "pages": 10,
+       "sheets": [
+        "CVR",
+        "A.01",
+        "A.02",
+        "A.03",
+        "A.04",
+        "A.05",
+        "A.06",
+        "A.07",
+        "R.01",
+        "R.02"
+       ]
+      },
+      {
+       "discipline": "Electrical",
+       "url": "files/br-ross-105-orlando/plan-set-electrical.pdf",
+       "pages": 2,
+       "sheets": [
+        "E.01",
+        "E.02"
+       ]
+      }
+     ],
+     "note": "Pre-package (not final) set — sheet numbers read from the title blocks; the roof sheets R.01/R.02 are filed in the Architectural part."
+    }
+   ],
+   "thumb": "thumbs/br-ross-105-orlando.jpg"
+  },
+  {
+   "id": "steak-n-shake-reimage",
+   "key": "10 Florida stores",
+   "name": "Steak 'n Shake — Florida Reimage",
+   "builder": "DAVACO, LP",
+   "address": "10 Florida stores",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Exterior Reimage Guidelines",
+     "group": "master",
+     "status": "On file",
+     "url": "files/steak-n-shake-reimage/plan-set.pdf",
+     "parts": [
+      {
+       "discipline": "Other",
+       "url": "files/steak-n-shake-reimage/plan-set-other.pdf",
+       "pages": 37,
+       "sheets": []
+      }
+     ],
+     "note": "Brand reimage guidelines document — no store drawings; the takeoff was built from this document."
+    }
+   ],
+   "thumb": "thumbs/steak-n-shake-reimage.jpg"
+  },
+  {
+   "id": "exj-15133",
+   "key": "15133 SW 27th Ct, Ocala, FL",
+   "name": "15133 SW 27th Ct",
+   "builder": "EXJ Root",
+   "address": "15133 SW 27th Ct, Ocala, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": 2325,
+    "underRoofSf": 3076,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Combined Engineered Set · Florence 1 (unsealed)",
+     "group": "master",
+     "status": "On file",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/florence-1-combined-engineered-unsealed-2026-09-17.pdf",
+     "note": "Shared Florence 1 engineered set (unsealed, 2026-09-17) — linked from this job's SHARMATRACK page."
+    }
+   ],
+   "thumb": "thumbs/exj-15133.jpg"
+  },
+  {
+   "id": "exj-2670",
+   "key": "2670 SW 177 Place Rd, Ocala, FL",
+   "name": "2670 SW 177 Place Rd",
+   "builder": "EXJ Root",
+   "address": "2670 SW 177 Place Rd, Ocala, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": 2325,
+    "underRoofSf": 3076,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Combined Engineered Set · Florence 1 (unsealed)",
+     "group": "master",
+     "status": "On file",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/florence-1-combined-engineered-unsealed-2026-09-17.pdf",
+     "note": "Shared Florence 1 engineered set (unsealed, 2026-09-17) — linked from this job's SHARMATRACK page."
+    }
+   ],
+   "thumb": "thumbs/exj-2670.jpg"
+  },
+  {
+   "id": "exj-498",
+   "key": "498 Marion Oaks Golf Rd, Ocala, FL",
+   "name": "498 Marion Oaks Golf Rd",
+   "builder": "EXJ Root",
+   "address": "498 Marion Oaks Golf Rd, Ocala, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": 2325,
+    "underRoofSf": 3076,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Combined Engineered Set · Florence 1 (unsealed)",
+     "group": "master",
+     "status": "On file",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/florence-1-combined-engineered-unsealed-2026-09-17.pdf",
+     "note": "Shared Florence 1 engineered set (unsealed, 2026-09-17) — linked from this job's SHARMATRACK page."
+    }
+   ],
+   "thumb": "thumbs/exj-498.jpg"
+  },
+  {
+   "id": "exj-6188",
+   "key": "6188 SW 174th Place, Ocala, FL",
+   "name": "6188 SW 174th Place",
+   "builder": "EXJ Root",
+   "address": "6188 SW 174th Place, Ocala, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": 2325,
+    "underRoofSf": 3076,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "Combined Engineered Set · Florence 1 (unsealed)",
+     "group": "master",
+     "status": "On file",
+     "url": "https://sharmaelechvac.github.io/exj-root-tracker/prints/florence-1-combined-engineered-unsealed-2026-09-17.pdf",
+     "note": "Shared Florence 1 engineered set (unsealed, 2026-09-17) — linked from this job's SHARMATRACK page."
+    }
+   ],
+   "thumb": "thumbs/exj-6188.jpg"
+  },
+  {
+   "id": "614-marion-oaks",
+   "key": "614 Marion Oaks Trail, Ocala, FL",
+   "name": "614 Marion Oaks Trail",
+   "builder": "Z Brothers Construction",
+   "address": "614 Marion Oaks Trail, Ocala, FL",
+   "byModel": false,
+   "details": {
+    "livingSf": null,
+    "underRoofSf": null,
+    "tonnage": null,
+    "service": null,
+    "extra": []
+   },
+   "sets": [
+    {
+     "name": "No drawings in tracker",
+     "group": "master",
+     "status": "Tracker page only",
+     "note": "SHARMATRACK crew page only — Plan Santiago 2118, Building Permit 2025102541 (per the tracker). The tracker holds no drawing files for this job."
     }
    ]
   }
