@@ -5,6 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Drawings &amp; Prints — Sharma Electric &amp; HVAC</title>
 <link rel="icon" href="logo.png">
+<meta name="theme-color" content="#1a2f61">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="stylesheet" href="styles.css?v=20261120-4">
 </head>
 <body>
@@ -81,5 +84,6 @@
 </nav>
 
 <script src="app.js?v=20261120-4"></script>
+<script>if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('sw.js').catch(function(){});});}</script>
 </body>
 </html>
